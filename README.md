@@ -1,2 +1,1 @@
-# asus-rog-phone-pro
-sov38
+asus-rog-phone-pro
